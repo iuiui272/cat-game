@@ -1,21 +1,6 @@
-# cat game
-[CAT games to play on crazy games](https://www.crazygames.com/t/cat
+# cat games
+1.[crazy games](https://www.crazygames.com/t/cat)
 
-<html>
-    <head>
-        <title>Display Alert Message on Button Click Event.</title>
-        <script type="text/javascript">
-            function showMessage() {
-                alert("Hello friends, this is message.");
-            }
-        </script>
-    </head>
-    <body>
-        <center>
-            <h1>Display Alert Message on Button Click Event.</h1>
-            <b>Click on button to display message: </b><br />
-            <br />
-            <input type="button" id="btnShowMsg" value="Click Me!" onClick="showMessage()" />
-        </center>
-    </body>
-</html>
+2.[new google dooodle](https://www.google.com/doodles/doodle-champion-island-games-july-25)
+
+3.[new game I made](https://scratch.mit.edu/projects/555993992/)
